@@ -60,7 +60,6 @@ sysinfo.txt
 *.apk
 *.unitypackage
 *.exe
-*.dll
 *.assests
 *.resS
 
