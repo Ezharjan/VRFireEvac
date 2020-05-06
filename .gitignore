@@ -12,6 +12,8 @@
 /[Bb]uilt/
 /[Bb]uiltOnPC/
 
+.gitignore
+
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
@@ -59,7 +61,7 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
-*.exe
+
 *.assests
 *.resS
 
