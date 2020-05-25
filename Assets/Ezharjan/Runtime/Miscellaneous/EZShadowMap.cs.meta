@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b221dfedadb9b384fb4eb4d8d845e8c7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - shadowCollectorShader: {fileID: 4800000, guid: 93e1810105643814fa6188bb9a625ad5,
+      type: 3}
+  - m_TargetCamera: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

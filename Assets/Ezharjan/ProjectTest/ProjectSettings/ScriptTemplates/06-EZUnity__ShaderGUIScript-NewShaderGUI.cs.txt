@@ -1,0 +1,25 @@
+﻿/* Author:          #AUTHORNAME#
+ * CreateTime:      #CREATETIME#
+ * Organization:    #ORGANIZATION#
+ * Description:     
+ */
+using EZhex1991.EZUnity;
+using UnityEditor;
+using UnityEngine;
+
+public class #SCRIPTNAME# : EZShaderGUI
+{
+    protected override void Setup(Material mat)
+    {
+        base.Setup(mat);
+    }
+    public override void OnGUI(MaterialEditor materialEditor, MaterialProperty[] properties)
+    {
+        // materialEditor.PropertiesDefaultGUI(properties);
+
+        MainTextureWithColorGUI(materialEditor, properties);
+
+        AdvancedOptionsGUI(materialEditor);
+        Setup(materialEditor.target as Material);
+    }
+}

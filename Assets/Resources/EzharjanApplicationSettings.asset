@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b155fe2a46f99d499834e4b33eefd9b, type: 3}
+  m_Name: EzharjanApplicationSettings
+  m_EditorClassIdentifier: 
+  m_PackageModeInEditor: 0
+  m_PackageModeInApp: 1
+  m_SleepTimeout: -1
+  m_TargetFrameRate: 30
+  m_AndroidServer: D:\UnityProjects\EZUnity\Assets\StreamingAssets
+  m_IOSServer: 
+  m_DefaultServer: 
+  m_FileListName: files
+  m_IgnorePrefix: delay
+  m_IgnoreSuffix: delay

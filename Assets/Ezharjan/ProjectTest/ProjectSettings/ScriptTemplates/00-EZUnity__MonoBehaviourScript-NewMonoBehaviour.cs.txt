@@ -1,0 +1,14 @@
+/* Author:          #AUTHORNAME#
+ * CreateTime:      #CREATETIME#
+ * Organization:    #ORGANIZATION#
+ * Description:     
+ */
+using UnityEngine;
+
+namespace #NAMESPACE#
+{
+    public class #SCRIPTNAME# : MonoBehaviour
+    {
+        
+    }
+}

@@ -1,0 +1,15 @@
+/* Author:          #AUTHORNAME#
+ * CreateTime:      #CREATETIME#
+ * Organization:    #ORGANIZATION#
+ * Description:     
+ */
+using UnityEngine;
+
+namespace #NAMESPACE#
+{
+    [CreateAssetMenu(fileName = "#SCRIPTNAME#", menuName = "#NAMESPACE#/#SCRIPTNAME#")]
+    public class #SCRIPTNAME# : ScriptableObject
+    {
+        
+    }
+}
