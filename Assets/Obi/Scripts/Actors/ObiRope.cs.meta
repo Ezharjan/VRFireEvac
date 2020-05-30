@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 7b0ff3a4f8c74454aada3576e59653fb
+labels:
+- ObiRope
+timeCreated: 1498486410
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - material: {instanceID: 0}
+  - solver: {instanceID: 0}
+  - ropePath: {instanceID: 0}
+  - section: {fileID: 11400000, guid: a12fab338b6cc450daae6f6c041fef86, type: 2}
+  - ropeMesh: {instanceID: 0}
+  - startPrefab: {instanceID: 0}
+  - endPrefab: {instanceID: 0}
+  - tearPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: 93f37bdbef33a4eb0aed0accab856754, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

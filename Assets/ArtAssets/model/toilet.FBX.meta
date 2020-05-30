@@ -1,0 +1,281 @@
+fileFormatVersion: 2
+guid: e670db0265fd7df429fb9442bca42975
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 001_low
+    100002: 001_low 1
+    100004: 001_low001
+    100006: 001_low002
+    100008: 001_low003
+    100010: 001_low004
+    100012: 001_low005
+    100014: 002_low
+    100016: 002_low 1
+    100018: 003_low
+    100020: 003_low001
+    100022: 004_low
+    100024: 005_low
+    100026: 005_low001
+    100028: 005_low002
+    100030: 005_low003
+    100032: 005_low004
+    100034: 005_low005
+    100036: 006_low
+    100038: 006_low001
+    100040: 006_low002
+    100042: 006_low003
+    100044: 006_low004
+    100046: 006_low005
+    100048: 007_low
+    100050: 007_low001
+    100052: 007_low002
+    100054: 008_low
+    100056: 008_low001
+    100058: 008_low002
+    100060: classdoor010
+    100062: doorglass010
+    100064: Object004
+    100066: Object019
+    100068: Object020
+    100070: Object021
+    100072: Object022
+    100074: //RootNode
+    400000: 001_low
+    400002: 001_low 1
+    400004: 001_low001
+    400006: 001_low002
+    400008: 001_low003
+    400010: 001_low004
+    400012: 001_low005
+    400014: 002_low
+    400016: 002_low 1
+    400018: 003_low
+    400020: 003_low001
+    400022: 004_low
+    400024: 005_low
+    400026: 005_low001
+    400028: 005_low002
+    400030: 005_low003
+    400032: 005_low004
+    400034: 005_low005
+    400036: 006_low
+    400038: 006_low001
+    400040: 006_low002
+    400042: 006_low003
+    400044: 006_low004
+    400046: 006_low005
+    400048: 007_low
+    400050: 007_low001
+    400052: 007_low002
+    400054: 008_low
+    400056: 008_low001
+    400058: 008_low002
+    400060: classdoor010
+    400062: doorglass010
+    400064: Object004
+    400066: Object019
+    400068: Object020
+    400070: Object021
+    400072: Object022
+    400074: //RootNode
+    2100000: 19 - Default
+    2100002: No Name
+    2100004: 16 - Default
+    2300000: 001_low
+    2300002: 001_low 1
+    2300004: 001_low001
+    2300006: 001_low002
+    2300008: 001_low003
+    2300010: 001_low004
+    2300012: 001_low005
+    2300014: 002_low
+    2300016: 002_low 1
+    2300018: 003_low
+    2300020: 003_low001
+    2300022: 004_low
+    2300024: 005_low
+    2300026: 005_low001
+    2300028: 005_low002
+    2300030: 005_low003
+    2300032: 005_low004
+    2300034: 005_low005
+    2300036: 006_low
+    2300038: 006_low001
+    2300040: 006_low002
+    2300042: 006_low003
+    2300044: 006_low004
+    2300046: 006_low005
+    2300048: 007_low
+    2300050: 007_low001
+    2300052: 007_low002
+    2300054: 008_low
+    2300056: 008_low001
+    2300058: 008_low002
+    2300060: classdoor010
+    2300062: doorglass010
+    2300064: Object004
+    2300066: Object019
+    2300068: Object020
+    2300070: Object021
+    2300072: Object022
+    3300000: 001_low
+    3300002: 001_low 1
+    3300004: 001_low001
+    3300006: 001_low002
+    3300008: 001_low003
+    3300010: 001_low004
+    3300012: 001_low005
+    3300014: 002_low
+    3300016: 002_low 1
+    3300018: 003_low
+    3300020: 003_low001
+    3300022: 004_low
+    3300024: 005_low
+    3300026: 005_low001
+    3300028: 005_low002
+    3300030: 005_low003
+    3300032: 005_low004
+    3300034: 005_low005
+    3300036: 006_low
+    3300038: 006_low001
+    3300040: 006_low002
+    3300042: 006_low003
+    3300044: 006_low004
+    3300046: 006_low005
+    3300048: 007_low
+    3300050: 007_low001
+    3300052: 007_low002
+    3300054: 008_low
+    3300056: 008_low001
+    3300058: 008_low002
+    3300060: classdoor010
+    3300062: doorglass010
+    3300064: Object004
+    3300066: Object019
+    3300068: Object020
+    3300070: Object021
+    3300072: Object022
+    4300000: Object004
+    4300002: classdoor010
+    4300004: doorglass010
+    4300006: Object019
+    4300008: Object020
+    4300010: Object021
+    4300012: 008_low
+    4300014: 001_low
+    4300016: 002_low
+    4300018: 003_low
+    4300020: 004_low
+    4300022: 005_low
+    4300024: 006_low
+    4300026: 007_low
+    4300028: 005_low001
+    4300030: 001_low001
+    4300032: 005_low002
+    4300034: 005_low003
+    4300036: 007_low001
+    4300038: 008_low001
+    4300040: 001_low002
+    4300042: 005_low004
+    4300044: 005_low005
+    4300046: 007_low002
+    4300048: 008_low002
+    4300050: 003_low001
+    4300052: 006_low001
+    4300054: 006_low002
+    4300056: 006_low003
+    4300058: 006_low004
+    4300060: 006_low005
+    4300062: Object022
+    4300064: 002_low
+    4300066: 001_low
+    4300068: 001_low003
+    4300070: 001_low004
+    4300072: 001_low005
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

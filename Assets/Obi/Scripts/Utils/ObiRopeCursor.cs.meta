@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5b98f02d6176a4d88a3bd7dc87d9a6d9
+labels:
+- ObiRope
+timeCreated: 1491822348
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: 618cf36eb21e34118ac5697fe77e2c3e, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
